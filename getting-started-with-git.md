@@ -23,7 +23,9 @@ There are two primary types of source code management; centralized and distribut
 
 ### Background
 
-TEST
+
+Hi Everyone At Drake!
+
 
 Git has become the defacto standard in source code management.  There are many centralized scm systems which have been used, but git has proven to be faster, safer, and more effective at managing complex distributed collaborative projects.  It was created as a way for open source contributors to the linux kernel to effectively manage changes and bring stability to the platform.
 
